@@ -31,4 +31,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 www.patika.dev
+
 ![patikadev](https://user-images.githubusercontent.com/99791289/213889350-70a9c6c3-8211-43c8-9667-b5873d372fcb.jpg)
